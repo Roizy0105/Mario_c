@@ -1,0 +1,6 @@
+Get the a number from the user
+Add spaces from the number user entered --
+add hashtage with number user entered ++
+add space
+add right side of the permit
+go to the next line 
